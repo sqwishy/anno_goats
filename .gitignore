@@ -1,0 +1,6 @@
+__pycache__
+anno_goats.egg-info
+.cache
+build
+dist
+venv
